@@ -1422,7 +1422,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Necrotic" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="deb790a4-cff5-484d-b84d-408d7ea39b99" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1431,7 +1431,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Necrotic_4" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="eced2a21-a1fc-43bd-90bd-929d086870fc" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_4,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_4,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_4,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1440,7 +1440,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Necrotic_5" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="5e19f3c7-2989-479b-95b3-0bff305a504e" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_5,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_5,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1449,7 +1449,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Necrotic_6" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="9224d84a-78f1-4331-a04b-8a6492e16345" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_6,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_6,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1458,7 +1458,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Radiant" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="ac4a91a1-d655-412c-bbaa-8288cb780a39" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1467,7 +1467,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Radiant_4" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d6de338e-d43f-4559-8641-0442e75dfcdb" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_4,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_NECROTIC_AURA_4,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_4,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1476,7 +1476,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Radiant_5" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="ff5b2be9-1020-408a-b2ee-3fa24270b13d" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_5,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_5,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1485,7 +1485,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="SpiritGuardians_Radiant_6" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="3f0d83ec-88aa-4f50-a46c-bd4ea31ad96c" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_6,100,100);" />
-        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA,100,100)" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(SPIRIT_GUARDIANS_RADIANT_AURA_6,100,100);" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
