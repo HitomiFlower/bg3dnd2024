@@ -11218,7 +11218,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h99dd2a82gb360g8747g2eafg30d4b056f72d" version="1" />
         <field name="PriorityOrder" type="IntegerTableFieldDefinition" value="700" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_SpikeGrowth_EnclaveMagic);" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_SpikeGrowth_EnclaveMagic);UnlockSpell(Target_SpikeGrowth,AddChildren,03b17647-161a-42e1-9660-5ba517e80ad2);" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_SpikeGrowth" />
       </fields>
     </stat_object>

@@ -8106,7 +8106,7 @@ data "Description" "h99dd2a82gb360g8747g2eafg30d4b056f72d;1"
 data "Icon" "Spell_Transmutation_SpikeGrowth"
 data "PriorityOrder" "700"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(Target_SpikeGrowth_EnclaveMagic);"
+data "Boosts" "UnlockSpell(Target_SpikeGrowth_EnclaveMagic);UnlockSpell(Target_SpikeGrowth,AddChildren,03b17647-161a-42e1-9660-5ba517e80ad2);"
 
 new entry "FairyTrickster"
 type "PassiveData"

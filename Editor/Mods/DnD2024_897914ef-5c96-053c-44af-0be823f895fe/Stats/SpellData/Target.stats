@@ -14655,6 +14655,7 @@
         <field name="RequirementConditions" type="StringTableFieldDefinition" value="HasPassive('EmeraldEnclaveFledgling',context.Source);" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:CreateSurface(6,10,SpikeGrowth,true);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
