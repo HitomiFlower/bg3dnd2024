@@ -1014,7 +1014,8 @@
         <field name="NameFS" type="FixedStringTableFieldDefinition" value="MageSlayer" />
         <field name="ReplenishType" type="FixedStringTableFieldDefinition" value="ShortRest" />
         <field name="MaxLevel" type="IntegerTableFieldDefinition" value="0" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h33e4840fg9b06g37ddg46b2g81f0faa0ab99" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h64d74f86g3068g8d76g0cd1g2ed854b87962" version="1" />
+        <field name="ShowOnActionResourcePanel" type="BoolTableFieldDefinition" value="True" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

@@ -587,6 +587,12 @@
                     <attribute id="UUID" type="guid" value="719fb971-275a-4b17-ae48-c0d8d224e875"/>
                 </node>
                 <node id="ActionResourceDefinition">
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="SwiftRetribution"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="UUID" type="guid" value="182c27ce-001d-4c11-8c0b-8ee0686825ba"/>
+                </node>
+                <node id="ActionResourceDefinition">
                     <attribute id="DisplayName" type="TranslatedString" handle="haaa5a699g83efg4475gf3ccge6f351a2d6a3" version="1"/>
                     <attribute id="Name" type="FixedString" value="HoneySweetBlades"/>
                     <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
@@ -705,10 +711,11 @@
                     <attribute id="UUID" type="guid" value="f731c3bf-88c4-4fab-bf44-fae650ea2ec3"/>
                 </node>
                 <node id="ActionResourceDefinition">
-                    <attribute id="DisplayName" type="TranslatedString" handle="h33e4840fg9b06g37ddg46b2g81f0faa0ab99" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h64d74f86g3068g8d76g0cd1g2ed854b87962" version="1"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="Name" type="FixedString" value="MageSlayer"/>
                     <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="6e696104-66ef-427c-849f-85b60aff88e5"/>
                 </node>
                 <node id="ActionResourceDefinition">
@@ -882,12 +889,6 @@
                     <attribute id="Name" type="FixedString" value="MoonSickle"/>
                     <attribute id="ReplenishType" type="FixedString" value="Turn"/>
                     <attribute id="UUID" type="guid" value="014d6340-84cf-4d14-b5a4-4b3f5886f8ba"/>
-                </node>
-                <node id="ActionResourceDefinition">
-                    <attribute id="IsHidden" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="SwiftRetribution"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
-                    <attribute id="UUID" type="guid" value="182c27ce-001d-4c11-8c0b-8ee0686825ba"/>
                 </node>
             </children>
         </node>
