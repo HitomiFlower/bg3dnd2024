@@ -1701,7 +1701,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="CacophonicShield" />
         <field name="Level" type="IntegerTableFieldDefinition" value="3" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA,100,10);" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA,100,100);" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="3" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_CacophonicShield" />
@@ -1727,6 +1727,7 @@
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="ee3c85ae-0078-4223-9345-c2594535d1f2" />
         <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="21fb07ad-aa5e-4952-abe1-9a379bd4eead" />
         <field name="DamageType" type="EnumerationTableFieldDefinition" value="Thunder" enumeration_type_name="Damage Type" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1734,11 +1735,12 @@
         <field name="UUID" type="IdTableFieldDefinition" value="310b8f90-7910-4eb0-9def-638ffb3438d3" />
         <field name="Name" type="NameTableFieldDefinition" value="CacophonicShield_4" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="7127103d-4568-4297-9df9-ff7aa8d6b8bc" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_4,100,10);" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_4,100,100);" />
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(4d6,Thunder);" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:4;" />
         <field name="RootSpellID" type="StringTableFieldDefinition" value="Shout_CacophonicShield" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_4,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1746,10 +1748,11 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4e19908a-d3ba-4041-9f18-c5948acf53f6" />
         <field name="Name" type="NameTableFieldDefinition" value="CacophonicShield_5" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="310b8f90-7910-4eb0-9def-638ffb3438d3" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_5,100,10);" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_5,100,100);" />
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(5d6,Thunder);" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:5;" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_5,100,100);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1757,10 +1760,11 @@
         <field name="UUID" type="IdTableFieldDefinition" value="49c59a85-2907-4bd4-80e2-901faa06647d" />
         <field name="Name" type="NameTableFieldDefinition" value="CacophonicShield_6" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="310b8f90-7910-4eb0-9def-638ffb3438d3" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_6,100,10);" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_6,100,100);" />
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(6d6,Thunder);" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:6;" />
         <field name="PowerLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(CACOPHONIC_SHIELD_AURA_6,100,100);" />
       </fields>
     </stat_object>
     <stat_object color="#FF000000" is_substat="false">
