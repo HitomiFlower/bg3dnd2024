@@ -8,6 +8,7 @@ body:
         * One request = one class or subclass. Please don't bundle multiple unrelated requests in a single post.
         * This category is for classes, subclasses, or class features that are **missing** or **not yet implemented** in the mod. If something already exists but behaves incorrectly, please open a Bug Report issue instead.
         * Include the official source so the class/subclass can be verified against the rules text.
+        * Check on **a campaign created on the current release** before reporting something as missing. A campaign that was updated mid-playthrough keeps whatever the older version granted its characters, so content that's already in the mod can look missing there.
         * **Please don't link other mods (Nexus, mod.io, GitHub, etc.).** These links are always posted in good faith, but this mod is written from the rulebooks and I deliberately don't read other mods' implementations. Describe what you want in your own words and cite the official source instead.
         * **Posts that ignore the points above may be closed or deleted without review.**
 
@@ -74,5 +75,5 @@ body:
       options:
         - label: I searched existing discussions and this hasn't already been requested.
           required: true
-        - label: I confirmed this isn't already implemented in the current mod version.
+        - label: I confirmed this isn't already implemented, on a campaign created on the current mod version.
           required: true

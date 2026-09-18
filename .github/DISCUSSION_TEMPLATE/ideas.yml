@@ -7,6 +7,7 @@ body:
         * One post = one idea. Please don't bundle unrelated suggestions together.
         * Requests for a **class or subclass**, or for a **spell**, belong in their own categories — this one is for everything else (feats, weapon mastery, items, UI, rules handling, and so on).
         * If something already exists but behaves incorrectly, that's a bug — open a **Bug Report** issue instead.
+        * Check the current behavior on **a campaign created on the current release**. A campaign that was updated mid-playthrough keeps whatever the older version granted its characters, so it may not reflect how the mod works now.
         * **Please don't link other mods (Nexus, mod.io, GitHub, etc.).** These links are always posted in good faith, but this mod is written from the rulebooks and I deliberately don't read other mods' implementations. Describe what you want in your own words and cite the official source instead.
         * **Posts that ignore the points above may be closed or deleted without review.**
 
